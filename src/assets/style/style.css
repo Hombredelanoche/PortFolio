@@ -1,0 +1,18 @@
+:root {
+    --background-primary-color: #296073;
+    --background-content-color: #3596B5;
+    --background-title-color: #000000;
+    --background-white: #ffffff;
+    --text-primary-color: #ffffff;
+    --text-secondary-color: #000000;
+    --box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    --border-radius-10: 10px;
+    --border-radius-5: 5px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    background-color: var(--background-primary-color);
+
+}
